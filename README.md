@@ -4,11 +4,7 @@
 
 I am currently pursuing my Masters of Computer Science at USF and will be graduating in 2022. Still not 100% sure where I'd like to end up, but I'm interested in data management and back-end development. But enough about my professional life...
 
-`if (freeTime == true) {
-  getOutdoors();
- } else {
-  keepThinkingAboutNextTrip();
- }`
+`freeTime == true ? getOutdoors() : keepThinkingAboutNextTrip();`
 
 ## Interests / Hobbies
 
