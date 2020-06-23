@@ -22,7 +22,7 @@ I am currently pursuing my Masters of Computer Science at USF and will be gradua
 
 ![Image](pics/Hiking2.JPG)
 
-![Image](pics/Hiking3.JPG)
+![Image](pics/Hiking3.jpg)
 
 ![Image](pics/Hiking4.JPG)
 
