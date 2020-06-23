@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# **Anthony Knox**
 
-You can use the [editor on GitHub](https://github.com/anthony-knox/anthony-knox.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently pursuing my Masters of Computer Science at USF and will be graduating in 2022. Still not 100% sure where I'd like to end up, but I'm interested in data management and back-end development. But enough about my professional life...
 
-### Markdown
+`if (freeTime == true) {
+  getOutdoors();
+ } else {
+  keepThinkingAboutNextTrip();
+ }`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Interests / Hobbies
 
-```markdown
-Syntax highlighted code block
+**Snowboarding**
 
-# Header 1
-## Header 2
-### Header 3
+![Image](pics/Snowboarding1.JPG)
 
-- Bulleted
-- List
+![Image](pics/Snowboarding2.JPG)
 
-1. Numbered
-2. List
+![Image](pics/Snowboarding3.JPG)
 
-**Bold** and _Italic_ and `Code` text
+**Hiking / Backpacking**
 
-[Link](url) and ![Image](src)
-```
+![Image](pics/Hiking1.JPG)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](pics/Hiking2.JPG)
 
-### Jekyll Themes
+![Image](pics/Hiking3.JPG)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anthony-knox/anthony-knox.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](pics/Hiking4.JPG)
 
-### Support or Contact
+**Travelling**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](pics/Travel1.JPG)
+
+![Image](pics/Travel2.JPG)
+
+![Image](pics/Travel3.JPG)
+
+**Basketball**
+
+![Image](pics/Warriors.jpg)
+
+*Winner of my fantasy basketball league this year (though it was cut short)*
+
+**Warzone**
+
+![Image](pics/Warzone.jpeg)
